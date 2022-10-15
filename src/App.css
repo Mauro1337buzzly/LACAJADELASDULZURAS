@@ -1,0 +1,14 @@
+
+.cardProducto { 
+    display: flex;
+    align-items: center;
+}
+
+.Loading { 
+    width: 5000px;
+    background: orange;
+    display: flex;
+    flex-direction: column;
+}
+
+

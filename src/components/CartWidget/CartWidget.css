@@ -1,0 +1,10 @@
+.bubble { 
+    text-decoration: none;
+    color: black;
+}
+
+.cartNumber {
+    text-decoration: none;
+    background: white 2px ;
+    border-radius: 20px;
+}

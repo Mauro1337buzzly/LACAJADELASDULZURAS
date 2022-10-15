@@ -1,0 +1,38 @@
+.Card { 
+    display: flex;
+    flex-direction: column;
+    border: solid 2px black;
+    background: orange ;
+    align-items: center;
+}
+
+.Titulo {
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+}
+
+.Precio { border:solid 1px black;
+        
+}
+
+.Detalle { 
+    font-size: 16px;
+    color : brown
+
+}
+
+.Imagen { 
+    cursor: pointer;
+    
+}
+
+.dtl { 
+    border:solid, 1px black;
+    background: none;
+}
+
+
+
+
+
