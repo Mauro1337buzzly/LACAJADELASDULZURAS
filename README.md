@@ -1,5 +1,6 @@
 
-<img src='logo-del-pastel-blanco-postre-de-pasteles-fondo-rosa-logotipo-simple-en-ilustración-170336703'> </img>
+
+![logo-del-pastel-blanco-postre-de-pasteles-fondo-rosa-logotipo-simple-en-ilustración-170336703](https://user-images.githubusercontent.com/107274370/195998601-05e6a1a8-dbf8-4e06-95f2-756f1f449961.jpg)
 
 
 <em> LA CAJA DE LAS DULZURAS </em> by Mauro Muñoz
